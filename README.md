@@ -5,7 +5,7 @@ The instructor during the session was Mr. Nitesh. I got to
 learn a lot during these 7 days and it was an amazing experience learning with THE CODE SCHOLAR.
 
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/thecodescholar/tcs_data/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
+<a href="https://youtube.com/channel/UCyG-UNr0u8rIb3Dxq2TAZ9A"> <img src="https://github.com/thecodescholar/tcs_data/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
 
 <br>I got to have hands on experience on:
 <li>Python
