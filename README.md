@@ -1,11 +1,5 @@
-# PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> THE CODE SCHOLAR</b>.
-
-The instructor during the session was Mr. Nitesh. I got to
-learn a lot during these 7 days and it was an amazing experience learning with THE CODE SCHOLAR.
-
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/watch?v=feCL8qbjgN0&list=PL3Hnv9OFTJvW4zFKj0qXOpkoNe4AQTzCF&index=1"> <img src="https://github.com/thecodescholar/tcs_data/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
+# PYTHON AND MACHINE LEARNING NATIONAL WORKSHOP
+Hi I attended 7 Days National Workshop on "Python And Machine Learning" from 07-13 June 2021, conducted by <b> THE CODE SCHOLAR</b>.
 
 <br>I got to have hands on experience on:
 <li>Python
@@ -13,6 +7,14 @@ learn a lot during these 7 days and it was an amazing experience learning with T
 <li>Tensorflow
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
+  
+The instructor during the session was Mr. Nitesh. I got to
+learn a lot during these 7 days and it was an amazing experience learning with THE CODE SCHOLAR.
+
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/watch?v=feCL8qbjgN0&list=PL3Hnv9OFTJvW4zFKj0qXOpkoNe4AQTzCF&index=1"> <img src="https://github.com/thecodescholar/tcs_data/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
+
+
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 <a href="http://www.thecodescholar.com"> www.thecodescholar.com </a>
 or follow THE CODE SCHOLAR on:
@@ -25,5 +27,5 @@ or follow THE CODE SCHOLAR on:
 <li><a href=
 "https://github.com/thecodescholar">GitHub</a>
 <li><a href=
-"https://twitter.com/thecodescholar_">GitHub</a>
+"https://twitter.com/thecodescholar_">Twitter</a>
 
