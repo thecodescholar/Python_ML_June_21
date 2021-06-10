@@ -6,7 +6,7 @@ Hi I attended 7 Days National Workshop on "Python And Machine Learning" from 07-
 <li>Machine Learning
 <li>Project Understanding
 <br>
-During these 7 days, and everything was explained from the very basics so that
+During these 7 days, everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
   
 The instructor during the session was Mr. Nitesh. 
